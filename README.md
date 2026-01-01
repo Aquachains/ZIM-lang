@@ -1,2 +1,2 @@
 # ZIM-lang
-A modern programming language for multimedia applications with manual memory management which transpiles to readable C code.
+A modern programming language for multimedia applications that uses manual memory management and transpiles to readable C code.
